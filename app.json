@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "PS16665_DangTuanNghia_Assignment",
+    "slug": "PS16665_DangTuanNghia_Assignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "softwareKeyboardLayoutMode": "pan"
+  },
+  "name": "PS16665_DangTuanNghia_Assignment"
+}
